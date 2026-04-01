@@ -42,11 +42,12 @@ Standard RL environments only reward binary scores cleanly at the end of an epis
 
 ## 📸 Dashboard UI & Visualizations
 We built an interactive, custom real-time telemetry dashboard visually running on **Streamlit** to track exactly what the AI context window is parsing dynamically.
+<img width="1540" height="900" alt="image" src="https://github.com/user-attachments/assets/0f7ee360-5269-4501-98e1-ca4d8f09a673" />
 
-*(Replace these lines entirely with your beautiful real-world screenshot links!)*
-**Placeholder: `![Dashboard Screenshot 1](https://example.com/your-image-link-here.png)`**
 
-**Placeholder: `![OpenEnv GUI Screenshot](https://example.com/your-image-link-here.png)`**
+
+<img width="1892" height="931" alt="Screenshot 2026-04-02 020620" src="https://github.com/user-attachments/assets/ab93109b-c32c-4c73-93a5-afb129ac1b08" />
+
 
 ---
 
